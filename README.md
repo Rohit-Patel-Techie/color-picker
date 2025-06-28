@@ -15,8 +15,8 @@ A sleek, responsive, and fully interactive **Color Picker** web application buil
 
 ---
 
-![Color Picker Screenshot](screenshot-01.png)
-![Color Picker Screenshot](screenshot-02.png)
+![Color Picker Screenshot](image.png)
+![Color Picker Screenshot](image-01.png)
 
 
 ---
